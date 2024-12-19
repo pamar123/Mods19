@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["es5", "dom"],
+    "types": ["cypress", "node"],
+    "esModuleInterop": true,
+    "jsx": "react-jsx",
+    "moduleResolution": "node",
+    "allowJs": true,
+    "composite": true,
+    "outDir": "./dist",
+    "paths": {
+      "@/*": ["../client/src/*"]
+    },
+    "rootDirs": [
+      ".",
+      "../client/src"
+    ]
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    "../client/src/**/*.tsx",
+    "../client/src/**/*.ts"
+  ],
+  "references": [
+    { "path": "../client" }
+  ]
+}
