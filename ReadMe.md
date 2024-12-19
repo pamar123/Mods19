@@ -7,8 +7,8 @@ An interactive quiz application built using the MERN stack (MongoDB, Express.js,
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
-cd [repository-name]
+git clone (https://github.com/pamar123/Mods19.git)
+cd Mods19
 ```
 
 2. Install dependencies:
@@ -80,7 +80,6 @@ npx cypress run --component
 [Link to video demonstration]
 
 ## Author
-[Your Name]
-
+Amar Patel
 ## License
 ISC
