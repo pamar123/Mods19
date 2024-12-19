@@ -77,7 +77,7 @@ npx cypress run --component
 - UI element verification
 
 ## Video Walkthrough
-[Link to video demonstration]
+(https://youtu.be/gA79j9qrwsk)
 
 ## Author
 Amar Patel
